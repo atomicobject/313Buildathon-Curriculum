@@ -1,13 +1,13 @@
 # Tools & Credits
 
-> **STATUS: DRAFT — pending confirmation from Nick Slappy (credit procurement) and the Anthropic conversation.** Items marked TBC are not yet confirmed for 2026.
+> **STATUS: DRAFT — pending confirmation** Items marked TBC are not yet confirmed for 2026.
 
 ## Chat assistants (Window 1 — thinking, ideation, business logic)
 
 | Tool | Access | Notes |
 |------|--------|-------|
 | ChatGPT | TBC (credits provided in 2025) | Ideation, pitch drafting, generating build prompts; sites feature for no-code pages |
-| Claude | TBC (credits provided in 2025; Anthropic credits being pursued for 2026) | Same uses; artifacts for quick interactive mockups |
+| Claude | TBC (credits provided in 2025) | Same uses; artifacts for quick interactive mockups |
 
 ## Build tools (Window 2 — generating the app)
 
@@ -24,7 +24,7 @@
 
 ## Bring-your-own
 
-Participants may use any tool they already have, including paid personal accounts. The list above is what the event provides and what the sessions demo — not a restriction.
+Participants may use any tool they already have, including paid personal accounts. The list above is what the event provides and what the sessions demo, not a restriction.
 
 ## Sign-up checklist (for session facilitators to walk through)
 

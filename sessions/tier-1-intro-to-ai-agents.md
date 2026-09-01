@@ -1,8 +1,9 @@
 # Tier 1: Intro to AI Agents
 
-**Audience:** Participants who have never (or barely) used an AI assistant. No coding experience assumed — and none required to participate in the buildathon.
+**Audience:** Participants who have never (or barely) used an AI assistant. No coding experience assumed, and none required to participate in the buildathon.
 
 **Length:** 30 minutes of content + 10–15 minutes Q&A
+
 **Format:** Live demo-driven. Slides optional; one big screen with a chat assistant open is the core visual.
 
 ## Session goal
@@ -32,7 +33,7 @@ Teaching points to hit during the demo: iterate instead of accepting the first a
 ### 3. What you can produce without code (8 min)
 
 - **A pitch deck:** ask the assistant to draft slides, then refine them together.
-- **Mockups / a simple site:** show one no-code path (e.g., ChatGPT's sites feature or Claude artifacts) turning the idea into something visual and clickable.
+- **Mockups / a simple site:** show one no-code path (e.g., ChatGPT's sites feature) turning the idea into something visual and clickable.
 - **A plan:** user stories, a rollout plan, a budget sketch — judges care that you understood the problem and the pillar.
 - Set expectations honestly: you may not ship a working app this weekend, and that's fine. Solving the *problem* well matters more than the tech.
 
